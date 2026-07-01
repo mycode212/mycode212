@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:38BDF8&text=Refky%20Satria%20Bima&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58"/>
@@ -169,4 +168,3 @@ motto:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,100:38BDF8"/>
 
 </div>
-````

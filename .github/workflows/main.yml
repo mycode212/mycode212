@@ -1,0 +1,16 @@
+name: README Workflow
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Display Information
+        run: |
+          echo "README Profile is configured successfully!"

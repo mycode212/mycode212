@@ -1,12 +1,13 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:38BDF8&text=Mang%20Kanya&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:38BDF8&text=Refky%20Satria%20Bima&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58"/>
 
-# Hi 👋 I'm Mang Kanya
+# 👋 Hi, I'm Refky Satria Bima
 
-### Full Stack Web Developer • Backend Engineer • Laravel Enthusiast
+### Full Stack Web Developer • Laravel Enthusiast • Backend Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Laravel+Developer;CodeIgniter+Developer;Backend+Engineer;Database+Enthusiast;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Laravel+Developer;CodeIgniter+Developer;Backend+Engineer;Information+System+Developer;Always+Learning+New+Things"/>
 
 <img src="https://komarev.com/ghpvc/?username=mycode212&style=for-the-badge&color=0ea5e9"/>
 
@@ -17,7 +18,7 @@
 # 💫 About Me
 
 ```yaml
-name: Mang Kanya
+name: Refky Satria Bima
 
 role:
   Full Stack Web Developer
@@ -27,7 +28,7 @@ company:
   Universitas Ahmad Dahlan (UAD)
 
 location:
-  Yogyakarta, Indonesia
+  Yogyakarta, Indonesia 🇮🇩
 
 specialization:
   - Laravel
@@ -36,14 +37,23 @@ specialization:
   - MySQL
   - PostgreSQL
   - JavaScript
-  - HTML
-  - CSS
+  - HTML5
+  - CSS3
+  - Bootstrap
 
 currently_learning:
   - Clean Architecture
   - Docker
   - DevOps
   - System Design
+  - Performance Optimization
+
+interests:
+  - Backend Development
+  - REST API
+  - Database Optimization
+  - Linux Server
+  - Software Architecture
 
 motto:
   "Building reliable software, one commit at a time."
@@ -51,39 +61,40 @@ motto:
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,php,codeigniter,mysql,postgres,javascript,html,css,bootstrap,git,github,docker,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,codeigniter,mysql,postgres,javascript,html,css,bootstrap,git,github,docker,linux,vscode,postman"/>
 
 </p>
 
 ---
 
-## 💼 What I Do
+# 💼 What I Do
 
-- 💻 Develop scalable web applications
-- ⚙️ Build RESTful APIs
+- 💻 Build scalable web applications
+- ⚙️ Develop RESTful APIs
 - 🗄️ Design & optimize MySQL and PostgreSQL databases
-- 🔒 Improve application performance & security
+- 🔐 Improve application security & performance
 - 🚀 Deploy applications on Linux servers
-- 📚 Continuously learning modern software development practices
+- 📚 Continuously learn modern software engineering practices
 
 ---
 
-## 🌱 Currently Exploring
+# 🌱 Currently Exploring
 
 - Laravel Ecosystem
 - Docker & Containerization
-- DevOps Workflow
+- DevOps
 - Clean Architecture
-- System Design
-- Database Performance
+- Software Design Pattern
+- PostgreSQL Performance
+- Microservices
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -95,17 +106,29 @@ motto:
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=mycode212&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Metrics
+
+> Generated automatically by **GitHub Actions** (`main.yml`)
+
+<p align="center">
+
+<img src="./github-metrics.svg"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -115,19 +138,19 @@ motto:
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
-> Aktifkan GitHub Actions terlebih dahulu agar animasi ini muncul.
+> Generated automatically by **GitHub Actions** (`snake.yml`)
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/mycode212/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/mycode212/mycode212/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -141,8 +164,9 @@ motto:
 
 <div align="center">
 
-### 💙 *"Code. Learn. Improve. Repeat."*
+### 💙 *"Code with passion. Build with purpose. Never stop learning."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F172A,100:38BDF8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,100:38BDF8"/>
 
 </div>
+````
